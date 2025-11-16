@@ -9,6 +9,23 @@ All designs for this app were created by **NAM Design**, a talented product desi
 ### 🔗 Figma File  
 👉 **https://www.figma.com/design/RhP1APTkYyHY3DTClVv5gU/Coffee-Shop-Mobile-App-Design--Community-?node-id=421-1289&t=sqLqtfBKOTZQgvjh-0**
 
+## 📱 Screens (Design Preview)
+
+### Welcome Screen  
+<img src="designs/welcome.png" width="300"/>
+
+### Home Screen  
+<img src="designs/Home.png" width="300"/>
+
+### Detail Screen  
+<img src="designs/detail.png" width="300"/>
+
+### Order Screen  
+<img src="designs/order.png" width="300"/>
+
+### Delivery Tracking  
+<img src="designs/delevery.png" width="300"/>
+
 ## 🚀 Features
 
 - Browse popular coffees
