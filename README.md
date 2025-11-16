@@ -1,50 +1,41 @@
-# Welcome to your Expo app 👋
+# ☕ ALX Coffee Shop App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern mobile coffee-ordering app built using **React Native**, **Expo**, and **Expo Router**.  
+Users can browse coffees, view details, customize orders, add items to a cart, choose delivery/pickup, and track their order.
 
-## Get started
+## 🚀 Features
 
-1. Install dependencies
+- Browse popular coffees
+- Coffee detail page (description, sizes, rating)
+- Global cart system (add, remove, update quantities)
+- Order page with dynamic item handling
+- Delivery or pickup workflow
+- Delivery tracking screen
+- Pickup success confirmation
 
-   ```bash
-   npm install
-   ```
+## 🧠 Development Summary
 
-2. Start the app
+1. Built home UI & coffee listing
+2. Added detail screen with size selector and description toggle
+3. Implemented full cart system using Context API
+4. Added order page
+5. Built delivery tracking & pickup success screens
+6. Solved routing and TypeScript module path issues
+7. Cleaned UI and moved styles into separate organized files
 
-   ```bash
-   npx expo start
-   ```
+## 🧩 Challenges Solved
 
-In the output, you'll find options to open the app in a
+- Major **version mismatch** between libraries → some features didn’t work
+  - Caused navigation + context errors
+  - Required reinstalling, cleaning cache, and updating packages
+  - Took **several days** to identify and fix
+- Module path errors (`Cannot find module`)
+- Component organization and Expo Router restructuring
+- Ensuring navigation flow between Cart → Order → Delivery/Pickup worked smoothly
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+## ▶️ Run the App
 
 ```bash
-npm run reset-project
+npm install
+npx expo start
 ```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
