@@ -3,6 +3,12 @@
 A modern mobile coffee-ordering app built using **React Native**, **Expo**, and **Expo Router**.  
 Users can browse coffees, view details, customize orders, add items to a cart, choose delivery/pickup, and track their order.
 
+## 🎨 UI/UX Design  
+All designs for this app were created by **NAM Design**, a talented product designer.
+
+### 🔗 Figma File  
+👉 **https://www.figma.com/design/RhP1APTkYyHY3DTClVv5gU/Coffee-Shop-Mobile-App-Design--Community-?node-id=2-5&p=f&t=QUWbia91StJiIAVA-0**
+
 ## 🚀 Features
 
 - Browse popular coffees
