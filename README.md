@@ -11,20 +11,14 @@ All designs for this app were created by **NAM Design**, a talented product desi
 
 ## 📱 Screens (Design Preview)
 
-### Welcome Screen  
-<img src="designs/welcome.png" width="300"/>
+<p align="center">
+  <img src="designs/welcome.png" width="180" />
+  <img src="designs/Home.png" width="180" />
+  <img src="designs/detail.png" width="180" />
+  <img src="designs/order.png" width="180" />
+  <img src="designs/delevery.png" width="180" />
+</p>
 
-### Home Screen  
-<img src="designs/Home.png" width="300"/>
-
-### Detail Screen  
-<img src="designs/detail.png" width="300"/>
-
-### Order Screen  
-<img src="designs/order.png" width="300"/>
-
-### Delivery Tracking  
-<img src="designs/delevery.png" width="300"/>
 
 ## 🚀 Features
 
